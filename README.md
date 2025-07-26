@@ -10,6 +10,11 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 - Responsive layout using CSS Grid
 - Clean and modern UI
 
+## 📸 Screenshot
+
+![Calculator Preview](https://github.com/Ronit049/CALCULATOR/blob/main/Screenshot%202025-07-27%20000914.png?raw=true)
+
+
 ## 🚀 Live Demo
 [Click to View Live](https://ronit049.github.io/calculator/) *(If you deploy it via GitHub Pages)*
 
