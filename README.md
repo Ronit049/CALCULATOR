@@ -11,7 +11,7 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 - Clean and modern UI
 
 
-## 🚀 Live Demo
+## 🚀 Live Demo here :-
 [Click to View Live](https://ronit049.github.io/CALCULATOR/) 
 
 ## 📁 Folder Structure
@@ -28,7 +28,7 @@ Edit
 
 
 
-## 🧠 What I Learned
+## 🧠 What I Learned :-
 - DOM manipulation with JavaScript
 - Styling using CSS Grid
 - Basic event handling
